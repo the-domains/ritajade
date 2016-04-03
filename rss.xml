@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ritajade]]></title>
-        <description><![CDATA[ritajade]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Empowered Life with Rita Jade]]></title>
+        <description><![CDATA[Empowered Life with Rita Jade]]></description>
+        <link>https://thegrid.ai/ritajade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 22:51:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 23:04:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ritajade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e8b1162-57cc-495d-b921-cf969f52c78e.jpg">]]></description>
-            <link>undefinedacf8e27e-67ac-4429-8698-dfc5541d8a34/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9a061c-d0d6-4c5b-a807-a3f1c451cc19.jpg">]]></description>
+            <link>https://thegrid.ai/ritajade/acf8e27e-67ac-4429-8698-dfc5541d8a34/index.html</link>
             <guid isPermaLink="false">acf8e27e-67ac-4429-8698-dfc5541d8a34</guid>
-            <pubDate>Sun, 03 Apr 2016 22:51:30 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 23:04:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
